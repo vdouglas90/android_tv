@@ -1,6 +1,6 @@
 # android_tv
 
-An Android TV Project
+An Android TV Project using Flutter.
 
 ![androidtv_login](https://user-images.githubusercontent.com/105760084/220207812-d2bb08d4-a240-46c5-864e-e42becce4bdb.png)
 ![details_movie](https://user-images.githubusercontent.com/105760084/220207818-f529f710-54ed-4110-b6a3-f441ac8e084d.png)
