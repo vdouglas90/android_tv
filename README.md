@@ -2,6 +2,12 @@
 
 An Android TV Project
 
+![androidtv_login](https://user-images.githubusercontent.com/105760084/220207812-d2bb08d4-a240-46c5-864e-e42becce4bdb.png)
+![details_movie](https://user-images.githubusercontent.com/105760084/220207818-f529f710-54ed-4110-b6a3-f441ac8e084d.png)
+![home_page1](https://user-images.githubusercontent.com/105760084/220207820-bbb3e5bf-2b56-4cc0-9850-82f75d6281fe.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
